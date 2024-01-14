@@ -1,1 +1,1 @@
-consolo.log (Hello world)
+consolo.log (hello)
